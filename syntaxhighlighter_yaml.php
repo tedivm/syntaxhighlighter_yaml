@@ -1,10 +1,11 @@
 <?php
-/*
-Plugin Name: SyntaxHighlighter Evolved: Yaml Brush
-Description: Adds support for the Yaml language to the SyntaxHighlighter Evolved plugin.
-Author: Robert Hafner
-Version: 1.0.0
-Author URI: http://blog.tedivm.com/
+/**
+* Plugin Name: SyntaxHighlighter Evolved: Yaml Brush
+* Description: Adds support for the Yaml language to the SyntaxHighlighter Evolved plugin.
+* Author: Robert Hafner
+* Version: 1.0.1
+* Author URI: http://blog.tedivm.com/
+* Plugin URI: https://github.com/tedivm/syntaxhighlighter_yaml
 */
  
 // SyntaxHighlighter Evolved doesn't do anything until early in the "init" hook, so best to wait until after that
