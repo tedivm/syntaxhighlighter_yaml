@@ -2,8 +2,8 @@
 Contributors: tedivm
 Tags: syntaxhighlighting, yaml
 Requires at least: 2.7
-Tested up to: 3.8
-Stable tag: 1.0.1
+Tested up to: 4.0
+Stable tag: 1.0.2
 License: MIT
 
 Adds support for the Yaml language to the SyntaxHighlighter Evolved plugin.
